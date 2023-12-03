@@ -1,5 +1,4 @@
-# beacon
-#to compile the code
+# beacon to compile the code
 $sudo apt-get install git
 $git clone
 $cd repository name
